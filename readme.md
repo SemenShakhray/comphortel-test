@@ -11,7 +11,7 @@ cd comphortel-test
 2. Запустите миграции
 
 ```bash
-make install-deps //при необходиомсти
+make install-deps //установка goose при необходимости
 make migration-up
 ```
 
